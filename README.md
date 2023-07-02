@@ -38,4 +38,8 @@ https://github.com/okHadi/git-actions-md
 ### 9- git-actions-md
 Github actions workflow that verifies that the README.md file has an appropiate length of titles and their descriptions.
 #
+https://github.com/okHadi/purge-sqs-queue
+### 10 - purge-sqs-queue
+A github actions workflow that purges a AWS SQS Dead Letter Queue. Need to provide the Queue URL for it to happen
+#
 
